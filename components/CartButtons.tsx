@@ -1,4 +1,4 @@
-import { images } from "@/constants/indesx";
+import { images } from "@/constants/index";
 import React from "react";
 import { Image, Text, TouchableOpacity, View } from "react-native";
 
